@@ -1,0 +1,17 @@
+{
+    "name": "3b032117/lara_auto",
+    "description": "autoload classes",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "src/Demo"
+        }
+    },
+    "authors": [
+        {
+            "name": "吳宇翰",
+            "email": "3b032117@gm.student.ncut.edu.tw"
+        }
+    ],
+    "require": {}
+}
